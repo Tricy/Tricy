@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Tricy
+- 👋 Hi, I’m @Tricy. nwoguh nneka
 - 👀 I’m interested in Html,CSS,Js
 - 🌱 I’m currently learning Javascript and React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Cybersecurity 
 - 📫 How to reach me Email: nwoguhtricy92@gmail.com   Twitter: nneka_nwoguh
 
 <!---
