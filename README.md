@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Tricy. nwoguh nneka
-- 👀 I’m interested in Html,CSS,Js
-- 🌱 I’m currently learning Javascript and React
-- 💞️ I’m looking to collaborate on Cybersecurity 
+- 👋 Hi there, I’m Nwoguh Nneka
+- 👀 Frontend developer|Cybersecurity enthusiast | Ethical Hacking | Open-Source Contributor | Penetration Testing | Building tools to enhance security | Always learning.
+- 🌱 I’m currently learning Cybersecurity
+- 💞️ I’m looking to collaborate on Open source that involve Ethical hacking, Pentesting.
 - 📫 How to reach me Email: nwoguhtricy92@gmail.com   Twitter: nneka_nwoguh
 
 <!---
