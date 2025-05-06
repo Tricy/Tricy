@@ -2,7 +2,7 @@
 - 👀 Frontend developer|Cybersecurity enthusiast | Ethical Hacking | Open-Source Contributor | Penetration Testing | Building tools to enhance security | Always learning.
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on Open source that involve Ethical hacking, Pentesting.
-- 📫 How to reach me Email: nwoguhtricy92@gmail.com   Twitter: nneka_nwoguh
+- 📫 How to reach me Email: nwoguhtricy92@gmail.com   Twitter: nneka_nwoguh LinkedIn: Nwoguh Nneka
 
 <!---
 Tricy/Tricy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
